@@ -1,2 +1,3 @@
 # code_one
-This is my first repository
+This is First repository
+This is my first commit
